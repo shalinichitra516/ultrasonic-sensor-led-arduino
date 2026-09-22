@@ -24,7 +24,7 @@ To measure the distance of an object using an HC-SR04 ultrasonic sensor and cont
 
 The ultrasonic sensor successfully detects the distance of an object, and the Arduino controls the LED based on the detected distance.
 
-![][image1]
+![image1](simulation.jpeg)
 
 ![][image2]
 
