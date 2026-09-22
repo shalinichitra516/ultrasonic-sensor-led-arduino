@@ -26,7 +26,7 @@ The ultrasonic sensor successfully detects the distance of an object, and the Ar
 
 ![image1](simulation.jpeg)
 
-![][image2]
+![image2](result.jpeg)
 
 **Conclusion:**
 
